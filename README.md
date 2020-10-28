@@ -1,2 +1,0 @@
-# Practise
-My first github
